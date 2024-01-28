@@ -1,0 +1,25 @@
+[2023-07-10 20:11:09.891] [info]  [db] Initialized DB client
+[2023-07-10 20:11:10.141] [warn]  The vm module of Node.js is deprecated in the renderer process and will be removed.
+[2023-07-10 20:11:10.143] [warn]  The vm module of Node.js is deprecated in the renderer process and will be removed.
+[2023-07-10 20:11:10.388] [warn]  The vm module of Node.js is deprecated in the renderer process and will be removed.
+[2023-07-10 20:11:10.591] [info]  [FileSystemDriver] Initialized in "/home/simon/.config/Insomnia/version-control"
+[2023-07-10 20:11:10.592] [info]  [sync] checking for collections which need to be moved into a remote project
+[2023-07-10 20:11:10.593] [info]  [FileSystemDriver] Initialized in "/home/simon/.config/Insomnia/version-control"
+[2023-07-10 20:11:10.660] [warn]  An aria-label or aria-labelledby prop is required for accessibility.
+[2023-07-10 20:11:10.673] [warn]  An aria-label or aria-labelledby prop is required for accessibility.
+[2023-07-10 20:19:08.646] [warn]  An aria-label or aria-labelledby prop is required for accessibility.
+[2023-07-10 20:19:08.649] [warn]  An aria-label or aria-labelledby prop is required for accessibility.
+[2023-07-10 20:19:08.710] [warn]  An aria-label or aria-labelledby prop is required for accessibility.
+[2023-07-10 20:19:08.711] [warn]  An aria-label or aria-labelledby prop is required for accessibility.
+[2023-07-10 20:19:10.522] [warn]  An aria-label or aria-labelledby prop is required for accessibility.
+[2023-07-10 20:19:10.525] [warn]  An aria-label or aria-labelledby prop is required for accessibility.
+[2023-07-10 20:19:10.645] [warn]  An aria-label or aria-labelledby prop is required for accessibility.
+[2023-07-10 20:19:10.646] [warn]  An aria-label or aria-labelledby prop is required for accessibility.
+[2023-07-10 20:19:20.605] [error] Error: No importers found for file
+    at Tye (file:///home/simon/Downloads/Insomnia.Core-2023.4.0/resources/app.asar/index.b54b93aa.js:80:43920)
+    at async file:///home/simon/Downloads/Insomnia.Core-2023.4.0/resources/app.asar/debug.221c8214.js:34:6649
+    at async file:///home/simon/Downloads/Insomnia.Core-2023.4.0/resources/app.asar/debug.221c8214.js:34:7020
+[2023-07-10 20:19:27.283] [info]  [network] Sending req=req_56a6a50f57aa42e6b8b94c1dba651e7a env=null
+[2023-07-10 20:19:27.885] [info]  [network] Response succeeded req=req_56a6a50f57aa42e6b8b94c1dba651e7a status=200
+[2023-07-10 20:19:43.650] [info]  [network] Sending req=req_56a6a50f57aa42e6b8b94c1dba651e7a env=null
+[2023-07-10 20:19:43.958] [info]  [network] Response succeeded req=req_56a6a50f57aa42e6b8b94c1dba651e7a status=200

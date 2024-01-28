@@ -1,0 +1,582 @@
+[
+	{
+		"value": "Preparing request to https://www.nordpoolgroup.com/api/marketdata/page/35",
+		"name": "Text",
+		"timestamp": 1689009567467
+	},
+	{
+		"value": "Current time is 2023-07-10T17:19:27.467Z",
+		"name": "Text",
+		"timestamp": 1689009567467
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1689009567467
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1689009567472
+	},
+	{
+		"value": "Enable timeout of 30000ms",
+		"name": "Text",
+		"timestamp": 1689009567472
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1689009567472
+	},
+	{
+		"name": "Text",
+		"value": "  Trying 20.54.220.190:443...\n",
+		"timestamp": 1689009567508
+	},
+	{
+		"name": "Text",
+		"value": "Connected to www.nordpoolgroup.com (20.54.220.190) port 443 (#0)\n",
+		"timestamp": 1689009567532
+	},
+	{
+		"name": "Text",
+		"value": "ALPN, offering h2\n",
+		"timestamp": 1689009567537
+	},
+	{
+		"name": "Text",
+		"value": "ALPN, offering http/1.1\n",
+		"timestamp": 1689009567537
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.0 (OUT), TLS header, Certificate Status (22):\n",
+		"timestamp": 1689009567604
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (OUT), TLS handshake, Client hello (1):\n",
+		"timestamp": 1689009567604
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS header, Certificate Status (22):\n",
+		"timestamp": 1689009567630
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, Server hello (2):\n",
+		"timestamp": 1689009567630
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS handshake, Certificate (11):\n",
+		"timestamp": 1689009567630
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS handshake, Server key exchange (12):\n",
+		"timestamp": 1689009567631
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS handshake, Server finished (14):\n",
+		"timestamp": 1689009567631
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (OUT), TLS header, Certificate Status (22):\n",
+		"timestamp": 1689009567633
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (OUT), TLS handshake, Client key exchange (16):\n",
+		"timestamp": 1689009567633
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (OUT), TLS header, Finished (20):\n",
+		"timestamp": 1689009567633
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):\n",
+		"timestamp": 1689009567633
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (OUT), TLS header, Certificate Status (22):\n",
+		"timestamp": 1689009567634
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (OUT), TLS handshake, Finished (20):\n",
+		"timestamp": 1689009567634
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS header, Finished (20):\n",
+		"timestamp": 1689009567659
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS header, Certificate Status (22):\n",
+		"timestamp": 1689009567659
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS handshake, Finished (20):\n",
+		"timestamp": 1689009567659
+	},
+	{
+		"name": "Text",
+		"value": "SSL connection using TLSv1.2 / ECDHE-RSA-AES256-GCM-SHA384\n",
+		"timestamp": 1689009567659
+	},
+	{
+		"name": "Text",
+		"value": "ALPN, server accepted to use http/1.1\n",
+		"timestamp": 1689009567659
+	},
+	{
+		"name": "Text",
+		"value": "Server certificate:\n",
+		"timestamp": 1689009567659
+	},
+	{
+		"name": "Text",
+		"value": " subject: C=NO; ST=Oslo; O=Nord Pool AS; CN=*.nordpoolgroup.com\n",
+		"timestamp": 1689009567659
+	},
+	{
+		"name": "Text",
+		"value": " start date: Nov 10 00:00:00 2022 GMT\n",
+		"timestamp": 1689009567659
+	},
+	{
+		"name": "Text",
+		"value": " expire date: Nov 10 23:59:59 2023 GMT\n",
+		"timestamp": 1689009567659
+	},
+	{
+		"name": "Text",
+		"value": " subjectAltName: host \"www.nordpoolgroup.com\" matched cert's \"*.nordpoolgroup.com\"\n",
+		"timestamp": 1689009567659
+	},
+	{
+		"name": "Text",
+		"value": " issuer: C=FR; ST=Paris; L=Paris; O=Gandi; CN=Gandi Pro SSL CA 2\n",
+		"timestamp": 1689009567659
+	},
+	{
+		"name": "Text",
+		"value": " SSL certificate verify ok.\n",
+		"timestamp": 1689009567659
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (OUT), TLS header, Supplemental data (23):\n",
+		"timestamp": 1689009567659
+	},
+	{
+		"name": "HeaderOut",
+		"value": "GET /api/marketdata/page/35 HTTP/1.1\r\nHost: www.nordpoolgroup.com\r\nUser-Agent: insomnia/2023.4.0\r\nAccept: */*\r\n\r\n",
+		"timestamp": 1689009567659
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS header, Supplemental data (23):\n",
+		"timestamp": 1689009567810
+	},
+	{
+		"name": "Text",
+		"value": "Mark bundle as not supporting multiuse\n",
+		"timestamp": 1689009567810
+	},
+	{
+		"name": "HeaderIn",
+		"value": "HTTP/1.1 200 OK\r\n",
+		"timestamp": 1689009567810
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Content-Length: 108821\r\n",
+		"timestamp": 1689009567810
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Content-Type: application/json; charset=utf-8\r\n",
+		"timestamp": 1689009567810
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Date: Mon, 10 Jul 2023 17:19:26 GMT\r\n",
+		"timestamp": 1689009567810
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Access-Control-Expose-Headers: Request-Context\r\n",
+		"timestamp": 1689009567810
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Cache-Control: no-cache\r\n",
+		"timestamp": 1689009567810
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Expires: -1\r\n",
+		"timestamp": 1689009567810
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Pragma: no-cache\r\n",
+		"timestamp": 1689009567810
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Set-Cookie: ARRAffinity=dd6858f6c5b3a396b31d1bce1f7f832ce9c5ea53ba76b93fe9bb5604b273b57c;Path=/;HttpOnly;Secure;Domain=www.nordpoolgroup.com\r\n",
+		"timestamp": 1689009567810
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Set-Cookie: ARRAffinitySameSite=dd6858f6c5b3a396b31d1bce1f7f832ce9c5ea53ba76b93fe9bb5604b273b57c;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.nordpoolgroup.com\r\n",
+		"timestamp": 1689009567810
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Content-Security-Policy: default-src 'self';font-src 'self' data: *.googleapis.com *.gstatic.com;img-src 'self' data: www.google-analytics.com *.youtube.com i.ytimg.com *.google.com *.google.fi *.lfeeder.com *.leadfeeder.com;script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: *.vo.msecnd.net *.google-analytics.com *.googleapis.com *.gstatic.com *.google.com www.googletagmanager.com *.youtube.com *.clickdimensions.com *.lfeeder.com *.leadfeeder.com http://*.google.com *.hotjar.com;style-src 'self' 'unsafe-inline' fonts.googleapis.com dl.episerver.net *.google.com;frame-src 'self' *.youtube.com https://web.nordpoolgroup.com *.google.com https://analytics-eu.clickdimensions.com *.hotjar.com;frame-ancestors 'self';media-src 'self' *.youtube.com *.google.com;connect-src 'self' *.google-analytics.com *.youtube.com *.google.com *.doubleclick.net dc.services.visualstudio.com *.hotjar.com *.hotjar.io;object-src 'none';child-src 'self';upgrade-insecure-requests;block-all-mixed-content;\r\n",
+		"timestamp": 1689009567810
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Request-Context: appId=cid-v1:adea0794-ef2c-4c88-8add-c3053b7f6fdd\r\n",
+		"timestamp": 1689009567810
+	},
+	{
+		"name": "HeaderIn",
+		"value": "X-UA-Compatible: IE=edge\r\n",
+		"timestamp": 1689009567810
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Strict-Transport-Security: max-age=31536000\r\n",
+		"timestamp": 1689009567810
+	},
+	{
+		"name": "HeaderIn",
+		"value": "X-Content-Type-Options: nosniff\r\n",
+		"timestamp": 1689009567810
+	},
+	{
+		"name": "HeaderIn",
+		"value": "X-Frame-Options: SAMEORIGIN\r\n",
+		"timestamp": 1689009567810
+	},
+	{
+		"name": "HeaderIn",
+		"value": "X-XSS-Protection: 1; mode=block\r\n",
+		"timestamp": 1689009567810
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Referrer-Policy: no-referrer, strict-origin-when-cross-origin\r\n",
+		"timestamp": 1689009567810
+	},
+	{
+		"name": "HeaderIn",
+		"value": "\r\n",
+		"timestamp": 1689009567810
+	},
+	{
+		"name": "Text",
+		"value": "Received 2.2 KB chunk",
+		"timestamp": 1689009567811
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS header, Supplemental data (23):\n",
+		"timestamp": 1689009567811
+	},
+	{
+		"name": "Text",
+		"value": "Received 66 B chunk",
+		"timestamp": 1689009567811
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS header, Supplemental data (23):\n",
+		"timestamp": 1689009567812
+	},
+	{
+		"name": "Text",
+		"value": "Received 4 KB chunk",
+		"timestamp": 1689009567812
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS header, Supplemental data (23):\n",
+		"timestamp": 1689009567812
+	},
+	{
+		"name": "Text",
+		"value": "Received 4 KB chunk",
+		"timestamp": 1689009567812
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS header, Supplemental data (23):\n",
+		"timestamp": 1689009567812
+	},
+	{
+		"name": "Text",
+		"value": "Received 1812 B chunk",
+		"timestamp": 1689009567812
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS header, Supplemental data (23):\n",
+		"timestamp": 1689009567812
+	},
+	{
+		"name": "Text",
+		"value": "Received 4 KB chunk",
+		"timestamp": 1689009567812
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS header, Supplemental data (23):\n",
+		"timestamp": 1689009567812
+	},
+	{
+		"name": "Text",
+		"value": "Received 4 KB chunk",
+		"timestamp": 1689009567833
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS header, Supplemental data (23):\n",
+		"timestamp": 1689009567833
+	},
+	{
+		"name": "Text",
+		"value": "Received 4 KB chunk",
+		"timestamp": 1689009567833
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS header, Supplemental data (23):\n",
+		"timestamp": 1689009567833
+	},
+	{
+		"name": "Text",
+		"value": "Received 4 KB chunk",
+		"timestamp": 1689009567833
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS header, Supplemental data (23):\n",
+		"timestamp": 1689009567834
+	},
+	{
+		"name": "Text",
+		"value": "Received 4 KB chunk",
+		"timestamp": 1689009567834
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS header, Supplemental data (23):\n",
+		"timestamp": 1689009567834
+	},
+	{
+		"name": "Text",
+		"value": "Received 4 KB chunk",
+		"timestamp": 1689009567834
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS header, Supplemental data (23):\n",
+		"timestamp": 1689009567834
+	},
+	{
+		"name": "Text",
+		"value": "Received 4 KB chunk",
+		"timestamp": 1689009567834
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS header, Supplemental data (23):\n",
+		"timestamp": 1689009567834
+	},
+	{
+		"name": "Text",
+		"value": "Received 4 KB chunk",
+		"timestamp": 1689009567834
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS header, Supplemental data (23):\n",
+		"timestamp": 1689009567835
+	},
+	{
+		"name": "Text",
+		"value": "Received 4 KB chunk",
+		"timestamp": 1689009567835
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS header, Supplemental data (23):\n",
+		"timestamp": 1689009567835
+	},
+	{
+		"name": "Text",
+		"value": "Received 4 KB chunk",
+		"timestamp": 1689009567867
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS header, Supplemental data (23):\n",
+		"timestamp": 1689009567867
+	},
+	{
+		"name": "Text",
+		"value": "Received 4 KB chunk",
+		"timestamp": 1689009567867
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS header, Supplemental data (23):\n",
+		"timestamp": 1689009567867
+	},
+	{
+		"name": "Text",
+		"value": "Received 4 KB chunk",
+		"timestamp": 1689009567867
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS header, Supplemental data (23):\n",
+		"timestamp": 1689009567868
+	},
+	{
+		"name": "Text",
+		"value": "Received 4 KB chunk",
+		"timestamp": 1689009567868
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS header, Supplemental data (23):\n",
+		"timestamp": 1689009567868
+	},
+	{
+		"name": "Text",
+		"value": "Received 4 KB chunk",
+		"timestamp": 1689009567868
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS header, Supplemental data (23):\n",
+		"timestamp": 1689009567868
+	},
+	{
+		"name": "Text",
+		"value": "Received 4 KB chunk",
+		"timestamp": 1689009567868
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS header, Supplemental data (23):\n",
+		"timestamp": 1689009567868
+	},
+	{
+		"name": "Text",
+		"value": "Received 4 KB chunk",
+		"timestamp": 1689009567868
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS header, Supplemental data (23):\n",
+		"timestamp": 1689009567868
+	},
+	{
+		"name": "Text",
+		"value": "Received 4 KB chunk",
+		"timestamp": 1689009567868
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS header, Supplemental data (23):\n",
+		"timestamp": 1689009567869
+	},
+	{
+		"name": "Text",
+		"value": "Received 4 KB chunk",
+		"timestamp": 1689009567869
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS header, Supplemental data (23):\n",
+		"timestamp": 1689009567869
+	},
+	{
+		"name": "Text",
+		"value": "Received 4 KB chunk",
+		"timestamp": 1689009567869
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS header, Supplemental data (23):\n",
+		"timestamp": 1689009567869
+	},
+	{
+		"name": "Text",
+		"value": "Received 4 KB chunk",
+		"timestamp": 1689009567869
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS header, Supplemental data (23):\n",
+		"timestamp": 1689009567869
+	},
+	{
+		"name": "Text",
+		"value": "Received 4 KB chunk",
+		"timestamp": 1689009567869
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS header, Supplemental data (23):\n",
+		"timestamp": 1689009567869
+	},
+	{
+		"name": "Text",
+		"value": "Received 4 KB chunk",
+		"timestamp": 1689009567869
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS header, Supplemental data (23):\n",
+		"timestamp": 1689009567869
+	},
+	{
+		"name": "Text",
+		"value": "Received 4 KB chunk",
+		"timestamp": 1689009567869
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS header, Supplemental data (23):\n",
+		"timestamp": 1689009567869
+	},
+	{
+		"name": "Text",
+		"value": "Received 2.2 KB chunk",
+		"timestamp": 1689009567869
+	},
+	{
+		"name": "Text",
+		"value": "Connection #0 to host www.nordpoolgroup.com left intact\n",
+		"timestamp": 1689009567870
+	}
+]
